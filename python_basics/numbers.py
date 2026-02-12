@@ -1,5 +1,5 @@
 
-# Program to add, substract,divide, multiply
+# Program to add,substract,divide, multiply
 
 sum_numbers = "first_number + second_number"
 difference_numbers = "first_number - second_number"

@@ -7,7 +7,7 @@ sentence = "I love Charlie Puth"
 
 string_length = len(sentence)
 
-print(f"The length is: {string_length}"))
+print(f"The length is: {string_length}")
 
 # Splitting a string 
 sentence_2 = "Cakes Biscuits"
@@ -41,7 +41,7 @@ cleaned_balance = balance.replace("Kes", "")
 
 print("Cleaned balance: ", cleaned_balance)
 
-cleaned_amount_added = amount_added.replace("Kes", ""
+cleaned_amount_added = amount_added.replace ("Kes", "")
 
 print("Cleaned amount added: ", cleaned_amount_added)
 
@@ -63,8 +63,8 @@ cleaned_amount_added = amount_added.replace("Kes", "")
 
 print("Cleaned amount added: ", cleaned_amount_added)
 
-new balance = int(cleaned_balance) + int(cleaned_amount_added)
+new_balance = int(cleaned_balance) + int(cleaned_amount_added)
 
 print(f"The new balance is :{new_balance}")
 
-_
+
