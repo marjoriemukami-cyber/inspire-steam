@@ -51,8 +51,8 @@ new_balance = int(cleaned_balance) + int(cleaned_amount_added)
 
 print("The new balance is:", new_balance)
 
-# assignment
-#sentence_3 = CONFIRMED you have received 475 Kes from Philip
+#Assignment 2
+#CONFIRMED you have received 475 Kes from Philip
 balance = "315 Kes"
 amount_added = "475 Kes"
 
