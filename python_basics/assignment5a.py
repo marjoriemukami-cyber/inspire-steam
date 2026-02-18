@@ -1,6 +1,6 @@
 # Name : Marjorie Mukami
 # Date : 16/02/2026
-# Program to calculate income tax
+# Program to calculate income tax assignment
 
 user_input = input("Enter your gross salary: ")
 salary = int(user_input)
