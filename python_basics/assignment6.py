@@ -1,3 +1,6 @@
+# Name : Marjorie Mukami
+# Date : 16/02/2026
+
 # Program to display a diamond, triangle
 # Write a program to solve quadratic equations
 
