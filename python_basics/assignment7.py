@@ -42,3 +42,7 @@ ninja_character.kick(warrior_character)
 
 ninja_character.report_status()
 warrior_character.report_status()
+
+warrior_character.takle(ninja_character)
+ninja_character.report_status()
+warrior_character.report_status()
