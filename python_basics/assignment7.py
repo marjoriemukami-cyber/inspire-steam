@@ -1,5 +1,7 @@
 # Name : Marjorie Mukami
 # Date : 18/02/2026
+# Program to create game using functions
+
 
 
 class FighterCharacter:
@@ -30,8 +32,8 @@ class FighterCharacter:
         
 
 
-ninja_character = FighterCharacter("Ninja", health=100, damage=40, speed=120)
-warrior_character = FighterCharacter("warrior", health=160, damage=80, speed=80)
+ninja_character = FighterCharacter("Ninja", health=100, damage=20, speed=120)
+warrior_character = FighterCharacter("warrior", health=120, damage=80, speed=80)
 
 
 ninja_character.report_status()
