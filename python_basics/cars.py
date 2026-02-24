@@ -20,5 +20,5 @@ def print_details(self, model, make, color, year):
 
 my_car = Car("Atenza", "Mazda", "Magenta", "2018")
 dads_car = Car("Ford", "Raptor", "Gold", "2015")
-
 my_car.print_details("Atenza", "Mazda", "Magenta", "2018")
+
