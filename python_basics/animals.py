@@ -30,7 +30,7 @@ class Dog(Animal):
         print(f"The animal eats {food}")   
 
 
- class Horse(Animal):
+class Horse(Animal):
     def __init__(self,species,food,weight):
         self.species = species
         self.food = food

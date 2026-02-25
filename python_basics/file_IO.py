@@ -18,12 +18,6 @@ new_file.close()
 # remove a new file
 # use os module 
  
-import os
-os.remove("remove.txt")
-
-# delete
-os.rmdir("folder")
-
 
 
 
