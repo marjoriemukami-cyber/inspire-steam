@@ -1,5 +1,6 @@
-# Name : Marjorie Mukami
-# Date : 25/02/2026
+ # Name : Marjorie Mukami
+# Date : 25/02/2026# Name : 
+# Program to create a school system
 
 import tkinter as tk
 from tkinter import messagebox
