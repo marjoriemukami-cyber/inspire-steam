@@ -18,7 +18,6 @@ while True:
     print("Picking bottle...")
     pick_prog.RunProgram()
     pick_prog.WaitFinished()
-
     time.sleep(1)  # small delay
 
     print("Returning bottle...")
