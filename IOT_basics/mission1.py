@@ -1,6 +1,12 @@
+# Marjorie
+# 3rd last week
+
 from pysimverse import Drone
 import time
+impoort time
 
+
+#mission 1
 drone = Drone()
 drone.connect()
 
