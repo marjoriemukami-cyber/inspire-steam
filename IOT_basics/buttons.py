@@ -2,6 +2,7 @@
 # Date : 26/02/2026
 # Program to make buttons
 
+#buttons
 from machine import Pin
 import time
 import machine

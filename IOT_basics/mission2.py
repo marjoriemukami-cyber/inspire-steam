@@ -1,6 +1,7 @@
 from pysimverse import Drone
 import time
-
+ 
+# Connect to the drone and take off 
 drone = Drone()
 drone.connect()
 
