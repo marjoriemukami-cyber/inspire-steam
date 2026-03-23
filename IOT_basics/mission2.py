@@ -1,6 +1,10 @@
+#Marjorie
+#3rd last week
+
 from pysimverse import Drone
 import time
  
+#mission2
 # Connect to the drone and take off 
 drone = Drone()
 drone.connect()
