@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Module05: classes, ids</title>  
+
+    <style>
+        body {
+            background-color: palegreen;
+            color: forestgreen;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            margin: 0;
+            padding: 0;
+        }
+        #page-wrapper {
+            max-width:  700px;
+            margin: 0 auto;
+            padding: 40px 24px ;
+        }
+        .band-photos{               
+            width: 300px;
+            height: 300px;
+            object-fit: cover;
+        }
+        #photos{
+            background-color: beige;
+        }
+        #listening-section{
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-content: center;
+            width: 300px;
+            height: 500px;
+            background-color: blanchedalmond;
+        }
+    </style>
+</head>
+<body>
+    <!--
+        id: unique, only one element in a page should have it
+
+        class: reusable. used to identify multiple elements together
+    
+    -->
+    <div id="page-wrapper" > 
+        <h1>Infinity Song</h1>
+        <p>Disc: Band from the roots of London, transforming pop music</p>
+    </div>
+        
+    <div id="photos">
+        <img class="band-photos" src="./assets/image/infinity-song.jpeg" alt="band photo">
+        <img class="band-photos" scr="./assets/image/infinity-song2.jpeg" alt="band photo">
+    </div>
+
+    <div id="Listening-section">
+        <p class="song">Latest song</p>
+        <p class="song">Earlier song</p>
+    </div>   
+</body>
+</html>

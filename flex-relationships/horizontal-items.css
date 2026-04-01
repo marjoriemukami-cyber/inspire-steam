@@ -1,0 +1,19 @@
+
+.container{
+    display: flex;
+    border: solid 3px plum;
+    height: 600px;
+    width: 400px;
+
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+.box{
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+    margin: 8px;
+    
+}
